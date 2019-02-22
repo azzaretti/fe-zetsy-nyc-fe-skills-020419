@@ -29,6 +29,10 @@ h1 {
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
+
+p {
+  display:block;
+}
 /* Write all remaining styles here */
 
 header a {
