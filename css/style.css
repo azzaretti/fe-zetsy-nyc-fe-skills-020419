@@ -59,7 +59,7 @@ header a {
 }
 
 #press img {
-  border: 5px;
+  border: 5px solid;
   border-color: rgb(153, 173, 166);
 }
 
