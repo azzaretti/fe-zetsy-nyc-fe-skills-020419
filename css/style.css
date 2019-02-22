@@ -58,5 +58,8 @@ header a {
   color:#1783bb;
 }
 
-
+#press img {
+  border: 5px;
+  border-color: rgb(153, 173, 166);
+}
 
