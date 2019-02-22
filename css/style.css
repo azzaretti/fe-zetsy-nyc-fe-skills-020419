@@ -57,6 +57,10 @@ header a:hover {
   border-color: rgb(153, 173, 166);
 }
 
+#featured img:hover {
+  border-color: rgb(111, 127, 122);
+}
+
 #featured a {
   color:#1783bb;
 }
