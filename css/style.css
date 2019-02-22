@@ -24,12 +24,12 @@ body {
 h1 {
   font-family:'Baskerville' serif;
   font-size: 5em;
+  padding: 10px;
 }
 /* Write all remaining styles here */
 
 header a {
   color: rgb(152,173,166);
   text-decoration: none;
- 
 }
 
